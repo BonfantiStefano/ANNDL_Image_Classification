@@ -20,4 +20,4 @@ In this repository there can be found the *Jupyter Notebooks* used by me and my 
 
 **Evaluation**: The metric used to evaluate models is the Accuracy. 
 
-Collaborators: Baratto Marco, Bonfanti Stefano, Nicolò Maria Rizzi, Giacomo Savazzi.
+Collaborators: Baratto Marco, Bonfanti Stefano, Niccolò Maria Rizzi, Giacomo Savazzi.
